@@ -1,26 +1,12 @@
 ---
-title: Foobar
+title: Krakov pressentationer
 separator: <!--s-->
 verticalSeparator: <!--v-->
 theme: css/theme/solarized.css
 revealOptions:
     transition: 'fade'
 ---
-Foo
 
-Note: test note
+* [Sammarbeta kring utbildningsmaterial med Markdown](?md=markdown.md)
+* [3 sprints in a day](?md=ohHappyDay.md) 
 
-<!--s-->
-
-# Bar
-
-<!--v-->
-
-Sub Bar 
-
-* Frag 1 <!-- .element: class="fragment" -->
-* Frag 2 <!-- .element: class="fragment" -->
-
-<!--s-->
-
-The End.
